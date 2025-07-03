@@ -1,3 +1,4 @@
-<?php echo "my name is som";
+<?php 
+      echo "my name is som";
       echo"Studying at MUT";
 ?>
